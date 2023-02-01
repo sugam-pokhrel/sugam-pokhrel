@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sugamf7@gmail.com**
 
-- ⚡ Fun fact **I was in a tut hell before**
+- ⚡ Fun fact **I was in a tut hell before && A Jack of all trades but master of none**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
