@@ -1,5 +1,5 @@
 
-[![MasterHead]()](https://sugam-pokhrel.github.io/home)
+[![IHATEFRONTEND]()](https://sugam-pokhrel.github.io/home)
 <h1 align="center">Hi 👋, I'm Sugam Pokhrel</h1>
 <h3 align="center">A JS fanboy working and mentoring newbies</h3>
 
