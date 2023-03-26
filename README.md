@@ -2,6 +2,7 @@
 [![IHATEFRONTEND]()](https://sugam-pokhrel.github.io/home)
 <h1 align="center">Hi 👋, I'm Sugam Pokhrel</h1>
 <h3 align="center">A JS fanboy working and mentoring newbies</h3>
+<p>Distro hopping is my side hobby</p>
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif">
 
