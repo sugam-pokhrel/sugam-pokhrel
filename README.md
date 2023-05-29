@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugam-pokhrel&label=Profile%20views&color=0e75b6&style=flat" alt="sugam-pokhrel" /> </p>
 
-- 🔭 I’m currently working on **Backed Development**
+- 🔭 I’m currently working on **WW3 :P**
 
 - 🌱 I’m currently learning **React,Vue ,Rust**
 
 - 📫 How to reach me **sugamf7@gmail.com**
 
-- ⚡ Fun fact **I was in a tut hell before && A Jack of all trades but master of none**
+- ⚡ Fun fact **THANKS TO STACK OVER FLOW FOR GIVING ME A TITLE OF A ENGINEER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
