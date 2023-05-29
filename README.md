@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sugamf7@gmail.com**
 
-- ⚡ t **Thanks to StackOveflow for making me a ENGINEER**
+- ⚡  **Thanks to StackOveflow for making me a ENGINEER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
